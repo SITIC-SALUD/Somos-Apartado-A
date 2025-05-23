@@ -10,7 +10,7 @@ fueron reconocidos como trabajadores del Apartado A.
 
 ```{eval-rst}
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    contents/investigadores.md
    contents/SITIC.md
