@@ -39,7 +39,7 @@ internacional.
 
 Además, y con un impacto social inmediato de gran relevancia, los
 Investigadores en Ciencias Médicas forman parte de los Comités de Ética en
-Investigación, los Comités Científicos, los Comités de Bioseguridad, además de otros
+Investigación, los Comités Científicos y los Comités de Bioseguridad, además de otros
 comités institucionales, en sus institutos u hospitales. Estos comités son
 responsables de revisar, dictaminar y autorizar todos los protocolos de
 investigación que involucren a seres humanos, incluyendo ensayos clínicos
@@ -80,6 +80,11 @@ su desarrollo profesional cursando estudios de posgrado, con el objetivo de
 convertirse en investigadores independientes. Este camino no solo es posible,
 sino deseable, pues representa una parte esencial del relevo generacional que fortalece y da
 continuidad a la ciencia médica en el país.
+
+
+## El Status de los Investigadores y Ayudantes de Investigador en los Institutos Nacionales de Salud y Hospitales de Alta Especialidad
+
+
 
 <br><br>
 
