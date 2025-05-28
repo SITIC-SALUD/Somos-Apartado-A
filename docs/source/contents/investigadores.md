@@ -82,9 +82,60 @@ sino deseable, pues representa una parte esencial del relevo generacional que fo
 continuidad a la ciencia médica en el país.
 
 
-## El Status de los Investigadores y Ayudantes de Investigador en los Institutos Nacionales de Salud y Hospitales de Alta Especialidad
+## El Estatus Anómalo de los Investigadores y Ayudantes de Investigador en los Institutos Nacionales de Salud y Hospitales de Alta Especialidad
 
+Los Investigadores en Ciencias Médicas y los Ayudantes de Investigador han sido
+considerados, en términos laborales, bajo el régimen del Apartado B del
+artículo 123 constitucional, y en consecuencia normados por la Ley Federal de
+los Trabajadores al Servicio del Estado. Esta adscripción ha generado una
+relación laboral discriminatoria que ha impedido el ejercicio pleno de sus
+derechos fundamentales, así como la consolidación y profesionalización de la
+investigación científica en ciencias médicas.
 
+En los Institutos Nacionales de Salud y Hospitales de Alta Especialidad conviven diversas categorías laborales.
+Por un lado encontramos al personal médico-asistencial (médicos clínicos, enfermeros,
+técnicos...) y administrativo, claramente identificados como servidores
+públicos del Apartado B. Este personal cuenta con derechos laborales plenos:
+seguridad social, prestaciones, Condiciones Generales de Trabajo negociadas, y
+representación sindical para la defensa colectiva de sus derechos. Por otro
+lado, están los Investigadores en Ciencias Médicas y Ayudantes de Investigador, también en la práctica bajo el régimen del Apartado B, pero
+cuya labor se asemeja más a la de los profesores e investigadores
+universitarios (habitualmente regidos por el Apartado A), a quienes debe garantizarse autonomía laboral y libertad de cátedra
+para que su actividad tenga el impacto social que se espera de ella.
+
+Bajo el régimen del Apartado B ha predominado la tendencia a clasificar a estos
+trabajadores académicos como personal de confianza, colocándolos en una
+categoría aislada dentro de sus instituciones. Esta clasificación ha propiciado
+la precarización de la ciencia y ha impedido el desarrollo de profesionales
+científicos con criterio realmente autónomo. Además, como trabajadores de confianza, no
+tienen acceso a los derechos laborales que sí posee el resto del personal que no realiza
+funciones de dirección, inspección, vigilancia o fiscalización; quedando
+sin protección colectiva ni posibilidad de organización sindical efectiva.
+
+Frente a esta situación, y dado que el marco legal vigente establecía que los
+Investigadores y Ayudantes de Investigador debían regirse por el Apartado A, en
+2019 se constituyó el Sindicato Independiente de Trabajadores en Investigación
+de Ciencias de la Salud (SITIC Salud). Su objetivo fue reivindicar derechos
+laborales básicos que en la práctica no se les estaban reconociendo, así como
+impulsar la necesidad de normar adecuadamente la actividad científica en los
+institutos y hospitales de alta especialidad. Ya que al ser considerados trabajadores
+de confianza, su labor nunca fue debidamente regulada. Muchos de estos
+investigadores llevaban años contratados bajo esquemas precarios —eventuales,
+por honorarios, o con contratos anuales—, sin estabilidad ni los derechos de un
+trabajador de base, a pesar de desempeñar funciones subordinadas dentro de las
+instituciones. Este escenario anómalo reforzó el argumento de que, al no tener
+un nombramiento formal bajo el régimen burocrático del Apartado B ni disfrutar
+plenamente de sus condiciones, su relación laboral debía encuadrarse en el
+Apartado A de la Constitución.
+
+Con el registro del SITIC Salud ante la Secretaría del Trabajo y Previsión
+Social como sindicato del Apartado A, se reconoció oficialmente que, por la
+naturaleza de sus funciones y las condiciones de su contratación, los
+Investigadores en Ciencias Médicas y Ayudantes de Investigador de los
+Institutos Nacionales de Salud y Hospitales de Alta Especialidad debían ser
+tratados laboralmente bajo el régimen del Apartado A. Esto les otorga el
+derecho a negociar un Contrato Colectivo de Trabajo y a organizarse
+sindicalmente para defender sus derechos.
 
 <br><br>
 
