@@ -33,24 +33,24 @@ conflictos laborales se dirimen ante tribunales burocráticos (como el Tribunal
 Federal de Conciliación y Arbitraje) conforme a la Ley Federal de los Trabajadores al Servicio del Estado. En contraste, el
 Apartado A (regulado por la [Ley Federal del Trabajo](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf)) permite mayor libertad
 sindical, múltiples sindicatos, negociación de contratos colectivos de trabajo
-y el derecho de huelga, resolviendo conflictos ante Juntas de Conciliación y
+y derecho de huelga, y la resolución de los conflictos se llevan a cabo ante Juntas de Conciliación y
 Arbitraje (hoy tribunales laborales). Esta diferencia es crucial para entender
 la problemática: por defecto, los investigadores de los Institutos Nacionales
-de Salud serían Apartado B, lo que les impide negociar colectivamente un
-contrato colectivo y limita su capacidad para formar sindicatos
-independientes y emplazar huelgas en los mismos términos que un trabajador del
-sector privado.
+de Salud serían Apartado B, limita su capacidad para formar sindicatos
+independientes, negociar colectivamente un contrato colectivo y emplazar
+huelgas en los mismos términos que un trabajador del sector privado.
 
 ## La jurisprudencias 1/96
 
-En 1996, la Suprema Corte de Justicia de la Nación emitió la jurisprudencia
-1/96, que establece que los trabajadores de los Organismos Públicos
-Descentralizados (OPD), como los Institutos Nacionales de Salud, tienen derecho a elegir su régimen laboral, ya sea el
-Apartado A o el Apartado B. Esta jurisprudencia fue un hito en la historia
-laboral de México, ya que permitió a los trabajadores de los OPD optar por el
-Apartado A, que les otorga mayores derechos laborales y la posibilidad de
-negociar colectivamente. La jurisprudencia 1/96 establece que los trabajadores de
-los OPC tienen derecho a elegir su régimen laboral, ya sea el Apartado A o el
+En 1996, la Suprema Corte de Justicia de la Nación emitió [la jurisprudencia
+1/96](https://sjf2.scjn.gob.mx/detalle/tesis/200199), que establece que los trabajadores de los Organismos Públicos
+Descentralizados (OPD), deben regirse por el Apartado A del artículo 123
+consticional. Quedando incluso invalidad la posibilidad de ubicarlos en el
+Apartado B, que dicha jurisprudencia [consideró inconstitucional para estos entes](https://sjf2.scjn.gob.mx/detalle/tesis/200199).
+Este criterio fue un hito en la historia laboral de México, ya que garantizó
+derechos laborales plenos como la libertad sindical o la posibilidad de
+negociar colectivamente sus condiciones de trabajo a los trabajadores de los
+OPD, como los Institutos Nacionales de Salud.
 
 En 2012, la Segunda Sala de la Suprema Corte de Justicia de la Nación
 estableció una nueva jurisprudencia que reafirmaba el espíritu de la
@@ -58,16 +58,19 @@ jurisprudencia 1/96, la jurisprudencia [2a./J. 180/2012
 (10a.)](https://vlex.com.mx/vid/471655738), señalando que, por mandato
 constitucional, las relaciones laborales de los OPD deben regirse por el
 Apartado A del artículo 123 y por la ley Federal del Trabajo,
-independientemente de lo que dispongan otras leyes.
-Este criterio se basó en que los OPD (como los Institutos Nacionales de Salud)
+independientemente de lo que dispongan otras leyes. Y el elemento clave
+señalado para soportar este criterio era que los OPD 
 tienen personalidad jurídica propia y patrimonio propios, distintos de la
 administración central, lo que implicaría un tratamiento laboral diferente al
-de los trabajadores gubernamentales estríctamente administrativos.
+de los trabajadores gubernamentales estríctamente administrativos y además el reconocimiento de que 
+no están integrados directamente en la estructura central del Poder Ejecutivo.
 
 En 2016, la misma Segunda Sala de la Suprema Corte de Justicia de la Nación
 abondonó el criterio sostenido desde 2012. No obstante, por jerarquía, las
 jurisprudencias de Sala no pueden abrogar las de Pleno, por lo que la
-jurisprudencia 1/96 continuó vigente.
+jurisprudencia 1/96 continuó vigente para todos los trabajadores de los OPD
+(como los Institutos Nacionales de Salud) prevaleciendo sobre otras leyes como
+la Ley de Institutos Nacionales de Salud.
 
 ## El reconocimiento en 2019 de los investigadores como trabajadores del Apartado A
 
@@ -76,44 +79,19 @@ en ciencias médicas de los Institutos Nacionales de Salud
 decidió organizarse sindicalmente. En 2019 constituyeron el Sindicato
 Independiente de Trabajadores en Investigación de Ciencias de la Salud (SITIC
 Salud), buscando reivindicar derechos laborales básicos que, en la práctica, no
-les estaban siendo reconocidos [por haber sido considerados trabajadores de confianza del Apartado B]().
+les estaban siendo reconocidos [por haber sido considerados trabajadores de confianza del Apartado B](../investigadores.md).
 
 Muchos de estos investigadores habían sido contratados por años bajo esquemas
 precarios (eventuales, honorarios o contratos anuales) sin la estabilidad ni
 los derechos completos de un trabajador de base, pese a laborar de forma
-subordinada en los institutos. Este escenario anómalo alimentó el argumento de
+subordinada en los institutos. [Este escenario anómalo](../investigadores.md) alimentó el argumento de
 que, al no existir un nombramiento formal de servidor público bajo Apartado B o
 al no otorgarles plenamente las condiciones del régimen burocrático, su
 relación de trabajo debía encuadrarse en la esfera del Apartado A de la
 Constitución. Es en ese contexto que el SITIC Salud solicitó y obtuvo registro oficial ante la
-Secretaría del Trabajo y Previsión Social como sindicato gremial del Apartado A (como se puede ver en [la última toma de nota vigente]()),
-lo cual implicó que la autoridad laboral reconoció que esos
-investigadores podían ejercitar los derechos colectivos previstos en la Ley
-Federal del Trabajo.
-
-De hecho, tras las reformas laborales de 2019, los
-sindicatos nuevos tienen derecho a emplazar a huelga por firma de contrato
-colectivo aun para obtener el primer contrato. Amparado en estas reformas y en
-la jurisprudencia existente, el SITIC Salud ha recorrido desde entonces un
-largo proceso de reclamación de derechos laborales, que incluye la
-negociación de un contrato colectivo de trabajo que profesionalice la investigación en los institutos.
-
-Así por ejemplo, el SITIC Salud ha emplazado a huelga en varias ocasiones en los últimos cinco años,
-demandando que los Institutos firmaran un Contrato Colectivo de Trabajo (CCT)
-con el sindicato representante de los investigadores. En el pasado, la
-la Junta Federal de Conciliación y Arbitraje (institución dedicada a estos procesos exclusivos del Apartado A) declaró
-improcedente la huelga por varios motivos. Sin embargo, el sindicato promovió juicios de amparo, los cuales
-fueron resueltos siempre a favor de las demandas del sindicato. En otras
-palabras, el poder judicial ha validado y reconocido explícitamente desde
-entonces que, por el marco jurídico vigente cuando se constituyó el sindicato y
-se reclamó el contrato colectivo en los institutos, por la naturaleza de sus funciones y las circunstancias de su contratación, los
-investigadores científicos del HIMFG y demás institutos deben ser tratados bajo
-el régimen del Apartado A para efectos laborales, lo que les permite tener un
-sindicato independiente y negociar un contrato colectivo. Esta sentencia de
-amparo revocó la negativa inicial de la Junta y ordenó admitir el proceso de
-huelga, afirmando el derecho de coalición, negociación colectiva y huelga de
-estos trabajadores conforme a los artículos 123 Apartado A y la Ley Federal del
-Trabajo.
+Secretaría del Trabajo y Previsión Social como sindicato gremial del Apartado A (como se puede ver en [la última toma de nota vigente](https://www.siticsalud.org/wp-content/uploads/2023/06/Toma-de-nota-2022-2025-SITIC-Salud.pdf)),
+lo cual implicó que la autoridad laboral reconoció que esos trabajadores de Institutos Nacionales de Salud y Hospitales de Alta Especialidad podían ejercitar [los derechos colectivos previstos en la Ley
+Federal del Trabajo](../cct.md).
 
 ## La jurisprudencia 2022
 
@@ -131,65 +109,34 @@ puedan regirse por Apartado B.
 
 A pesar de este cambio jurisprudencial de 2022,
 es importante destacar que cuando los investigadores del HIMFG iniciaron su
-lucha legal aún prevalecía el criterio anterior. En el momento de iniciarse
-el procedimiento laboral, la interpretación jurisprudencial vigente indicaba
+lucha legal aún prevalecía el criterio anterior (jurisprudencia 1/96). La interpretación jurisprudencial vigente indicaba
 que la incorporación de esos trabajadores al Apartado B resultaba
 “inconstitucional”, debiendo regirles el Apartado A para efectos de sus
 derechos de negociación colectiva, sin perjuicio de respetar las condiciones
-laborales que venían ejerciendo bajo el Apartado B. Esto sugiere que los
-órganos jurisdiccionales reconocieron una entonces una interpretación conforme a derechos
-humanos para proteger la libertad sindical de los investigadores, por encima de
-lo que literalmente decía la ley del instituto.
+laborales que venían ejerciendo bajo el Apartado B.
 
-la jurisprudencia P./J. 10/2021 no puede despojar retroactivamente a los
+En la actualidad, la jurisprudencia P./J. 10/2021 no puede despojar retroactivamente a los
 investigadores del SITIC Salud de su estatus y beneficios adquiridos bajo el
-Apartado A. Aplicar el nuevo criterio con efecto retroactivo vulneraría la
-garantía de irretroactividad de la ley en perjuicio de las personas (art. 14
-CPEUM) y socavaría la seguridad jurídica. Los derechos adquiridos –como la
-afiliación sindical bajo el Apartado A, contratos colectivos vigentes y
-antigüedad laboral cotizada en el IMSS– permanecen protegidos, debiendo
-respetarse el régimen originalmente reconocido. La propia SCJN ha confirmado
-que los acuerdos laborales previos a P./J. 10/2021 se mantienen vigentes
-vlex.com.mx
-, de modo que cualquier cambio de régimen opera solo hacia el futuro y sin
-afectar situaciones jurídicas definitivamente establecidas.
-
-El Artículo 14 constitucional consagra el principio de irretroactividad de la
+Apartado A. Esto ha sido confirmado por la propia
+SCJN, de modo que cualquier cambio de régimen opera solo hacia el
+futuro y sin afectar situaciones jurídicas definitivamente establecidas. Prevalece
+el Artículo 14 constitucional que consagra el principio de irretroactividad de la
 ley en perjuicio de persona alguna, es decir, prohíbe dar a las normas efecto
-retroactivo que lesione derechos ya adquiridos
-constitucionpolitica.mx
-. Este principio no solo aplica a leyes en sentido estricto, sino también a la
-aplicación de nuevos criterios jurisprudenciales cuando su efecto pudiera
-lesionar derechos definitivamente incorporados al patrimonio jurídico de una
-persona. En la doctrina, se distingue entre “derechos adquiridos” (beneficios o
-facultades que ya se incorporaron firmemente al patrimonio de alguien al amparo
-de la ley vigente) y “meras expectativas” (posibilidades de adquirir un derecho
-en el futuro)
-cronica.com.mx
-. Los primeros gozan de protección constitucional: no pueden ser anulados por
-una nueva disposición o criterio sin violar el artículo 14, mientras que las
-expectativas no tienen esa protección absoluta. En este caso, el reconocimiento
-formal de los investigadores del SITIC bajo el Apartado A y los derechos
-ejercidos conforme a ese régimen (p. ej. la firma de contratos colectivos
-vigentes, antigüedad cotizada ante el IMSS, etc.) califican como derechos
-adquiridos, no simples expectativas. Por tanto, una jurisprudencia posterior no
-puede privarlos retroactivamente de esos derechos ya consolidados sin
-transgredir la garantía de irretroactividad y seguridad jurídica.
+retroactivo que lesione derechos ya adquiridos.
 
 ## El exhorto del Senado en 2023
-Cabe mencionar que las autoridades de los institutos han mostrado resistencia a
-firmar el contrato colectivo, argumentando cuestiones presupuestales o
-administrativas
-piedepagina.mx
-. No obstante, la legitimidad del sindicato y la obligación de negociar fueron
-respaldadas no solo por los tribunales, sino también por pronunciamientos del
-Poder Legislativo. En febrero de 2023, el Senado de la República aprobó un
+
+Ante la resistencia mostrada por los
+Institutos Nacionales de Salud para hacer efectivo el reconocimiento de los
+Investigadores en Ciencias Médicas y Ayudantes de Investigador como
+trabajadores del Apartado A, y las dificultades para negociar un contrato
+colectivo de trabajo (CCT) apesar de que la legitimidad del sindicato y la obligación de negociar fueron
+respaldadas por los tribunales, en febrero de 2023, el Senado de la República aprobó un
 exhorto señalando que no existe impedimento legal ni administrativo para
 celebrar el CCT con el SITIC Salud y exhortó a la Secretaría de Salud (como
-cabeza del sector) a participar en la negociación
-infosen.senado.gob.mx
-. Esto refuerza la interpretación de que la organización sindical de los
-investigadores es jurídicamente válida.
+cabeza del sector) a participar en la negociación. Esto refuerza la
+interpretación de que la organización sindical de los investigadores es
+jurídicamente válida.
 <br><br>
 
 
