@@ -22,10 +22,10 @@ justificado. Además, [no pueden formar sindicatos, participar en negociaciones
 colectivas con su empleador o emplazar a huelga](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-sexto/capitulo-ii/#articulo-183). Esto limita su capacidad
 de defender sus derechos laborales y de negociar mejores condiciones de trabajo.
 
-Que los Investigadores y Ayudantes de Investigador hayan formado [un sindicato](SITIC.md) y
+**Que los Investigadores y Ayudantes de Investigador hayan formado [un sindicato](SITIC.md) y
 [hayan sido convocados por la Junta Federal de Conciliación y Arbitraje para un
 procedimiento de negociación colectiva](apartado_a.md#cct) constituye prueba suficiente de que no
-son trabajadores de confianza. Esta participación activa en el ejercicio de
+son trabajadores de confianza**. Esta participación activa en el ejercicio de
 derechos colectivos —como la sindicalización, la negociación de un contrato
 colectivo y el emplazamiento a huelga— confirma que su categoría laboral
 corresponde a la de trabajadores de base, con derechos y obligaciones distintos

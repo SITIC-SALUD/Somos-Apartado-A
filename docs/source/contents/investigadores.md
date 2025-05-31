@@ -67,9 +67,8 @@ proyectos científicos. Suelen ser profesionales en las etapas iniciales de su
 carrera, generalmente egresados de licenciaturas en áreas como medicina,
 psicología, química, biología u otras disciplinas afines. Para ingresar a estos
 puestos se requiere una base sólida en métodos científicos: experiencia
-práctica en laboratorio (al menos algunos meses en investigación biomédica o
-clínica), dominio de técnicas especializadas y comprensión de inglés técnico
-para leer literatura científica. Estas competencias les permiten colaborar
+práctica en laboratorio, dominio de técnicas especializadas y comprensión de
+inglés técnico para leer literatura científica. Estas competencias les permiten colaborar
 eficazmente en entornos de investigación altamente especializados.
 
 Los Ayudantes de Investigador ejecutan técnicas experimentales, registran datos
@@ -81,7 +80,7 @@ solidez y calidad.
 
 A medida que adquieren experiencia, muchos Ayudantes de Investigador continúan
 su desarrollo profesional cursando estudios de posgrado, con el objetivo de
-convertirse en investigadores independientes. Este camino no solo es posible,
+convertirse en investigadores independientes. Este camino no sólo es posible,
 sino deseable, pues representa una parte esencial del relevo generacional que fortalece y da
 continuidad a la ciencia médica en el país.
 
@@ -97,8 +96,8 @@ derechos fundamentales, así como la consolidación y profesionalización de la
 investigación científica en ciencias médicas.
 
 En los Institutos Nacionales de Salud y Hospitales de Alta Especialidad conviven diversas categorías laborales.
-Por un lado encontramos al personal médico-asistencial (médicos clínicos, enfermeros,
-técnicos...) y administrativo, claramente identificados como servidores
+Por un lado encontramos al personal médico-asistencial (como médicos clínicos, enfermeros o
+técnicos) y administrativo, claramente identificados como servidores
 públicos del Apartado B. Este personal cuenta con derechos laborales plenos:
 seguridad social, prestaciones, Condiciones Generales de Trabajo negociadas, y
 representación sindical para la defensa colectiva de sus derechos. Y por otro

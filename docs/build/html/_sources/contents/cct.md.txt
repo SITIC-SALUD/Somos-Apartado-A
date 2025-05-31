@@ -39,13 +39,13 @@ Como trabajadores del Apartado A regidos por la Ley Federal del Trabajo, los
 investigadores tienen derecho a la estabilidad laboral, y [sus contratos se
 presumen por tiempo indeterminado](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-segundo/capitulo-ii/#articulo-35).
 A diferencia del personal de confianza, que puede ser separado por simple
-“pérdida de confianza”, los investigadores solo pueden ser despedidos por causas legales justificadas, como las previstas
+“pérdida de confianza”, los investigadores sólo pueden ser despedidos por causas legales justificadas, como las previstas
 en el [artículo 47 de la Ley Federal del Trabajo](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-segundo/capitulo-iv/#articulo-47); de lo contrario, el Instituto está obligado a
 reinstalarlos o indemnizarlos con tres meses de salario, conforme al [artículo 48 de la misma ley](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-segundo/capitulo-ii/#articulo-35).
 Esta diferencia permite desarrollar proyectos científicos a largo plazo sin
 temor a decisiones discrecionales. El reconocimiento de este derecho es clave para transformar la precariedad en
 una relación laboral justa.
-Con estabilidad, se protege no solo al trabajador, sino también la continuidad,
+Con estabilidad, se protege no sólo al trabajador, sino también la continuidad,
 calidad y misión científica del Instituto.
 
 (jornada)=
@@ -111,9 +111,9 @@ establecer un marco normativo justo, adaptado a la investigación en salud.
 (huelga)=
 ## Huelga
 
-El derecho a huelga está reconocido en [el Artículo 123 constitucional](https://mexico.justia.com/federales/constitucion-politica-de-los-estados-unidos-mexicanos/titulo-sexto/) como una
+**El derecho a huelga está reconocido en [el Artículo 123 constitucional](https://mexico.justia.com/federales/constitucion-politica-de-los-estados-unidos-mexicanos/titulo-sexto/) como una
 herramienta legítima de los trabajadores para la defensa de sus intereses
-colectivos. En el caso de los Investigadores y Ayudantes de
+colectivos**. En el caso de los Investigadores y Ayudantes de
 Investigador, como trabajadores del Apartado A, [este derecho les permite
 suspender labores de forma legal](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-octavo/) cuando el Instituto Nacional de Salud o el
 Hospital de Alta Especialidad —como organismos públicos descentralizados con
