@@ -27,10 +27,10 @@ derechos plenos. Esto tiene múltiples beneficios:
 Investigadores y Técnicos de los Institutos Nacionales de Salud tienen entre otros derecho a:
 
 - [Estabilidad laboral y permanencia en el empleo](#estabilidad)
-- Jornada laboral digna
-- Organización sindical
-- Negociación de un Contrato Colectivo de Trabajo
-- Huelga
+- [Jornada laboral digna](#jornada)
+- [Organización sindical](#organizacion)
+- [Negociación de un Contrato Colectivo de Trabajo](#negociacion)
+- [Huelga](#huelga)
 
 (estabilidad)=
 ## Estabilidad Laboral y Permanencia en el empleo
@@ -48,6 +48,7 @@ una relación laboral justa.
 Con estabilidad, se protege no solo al trabajador, sino también la continuidad,
 calidad y misión científica del Instituto.
 
+(jornada)=
 ## Jornada Laboral Digna
 
 Como trabajadores del Apartado A, su jornada debe ajustarse a los límites
@@ -59,6 +60,7 @@ El Instituto está obligado a respetar horarios razonables y condiciones laboral
 Exigir extensiones de jornada sin compensación, como se hacía bajo la figura de
 “trabajador de confianza”, ya no es legalmente válido.
 
+(organizacion)=
 ## Organización Sindical
 
 Al ser trabajadores del Apartado A, los Investigadores y
@@ -80,6 +82,7 @@ el Instituto Nacional de Salud o el Hospital de Alta Especialidad —como
 organismos públicos descentralizados con personalidad jurídica y patrimonio
 propios— se nieguen a negociar.
 
+(negociacion)=
 ## Negociación de un Contrato Colectivo de Trabajo
 
 La negociación colectiva permite a los investigadores, como trabajadores del
@@ -105,6 +108,7 @@ sindicato a ejercer el derecho de huelga como medida legítima.
 Contar con un Contrato Colectivo de Trabajo permite dejar atrás la falta de condiciones claras y
 establecer un marco normativo justo, adaptado a la investigación en salud.
 
+(huelga)=
 ## Huelga
 
 El derecho a huelga está reconocido en [el Artículo 123 constitucional](https://mexico.justia.com/federales/constitucion-politica-de-los-estados-unidos-mexicanos/titulo-sexto/) como una
