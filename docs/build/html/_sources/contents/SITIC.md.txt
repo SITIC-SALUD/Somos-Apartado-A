@@ -1,11 +1,11 @@
 # El Sindicato Independiente de los Trabajadores en Investigación de Ciencias de la Salud
 
-El Sindicato Independiente de los Trabajadores en Investigación de Ciencias de
-la Salud (SITIC Salud) es una organización gremial que agrupa a Investigadores
+[El Sindicato Independiente de los Trabajadores en Investigación de Ciencias de
+la Salud (SITIC Salud)](https://www.siticsalud.org/) es una organización gremial que agrupa a Investigadores
 en Ciencias Médicas y Ayudantes de Investigador de los Institutos Nacionales de
 Salud y Hospitales de Alta Especialidad en México.
 
-Fundado el 24 de mayo de 2019, el SITIC Salud se constituyó como respuesta a la
+[Fundado el 24 de mayo de 2019](https://www.siticsalud.org/wp-content/uploads/2023/06/01_Boletin_Octubre_2020_V4.pdf), el SITIC Salud se constituyó como respuesta a la
 necesidad de defender y mejorar los derechos laborales de estos profesionales,
 quienes, a pesar de su contribución esencial a la investigación biomédica,
 enfrentaban condiciones laborales precarias y una falta de reconocimiento
@@ -14,12 +14,13 @@ fuerte y colectiva que impulse la profesionalización de la investigación
 científica en sus instituciones.
 
 El 28 de agosto de 2019, el SITIC Salud obtuvo su registro oficial ante la
-Secretaría del Trabajo y Previsión Social (STPS), bajo el número 10/15436. Este
-reconocimiento representó un hito significativo, ya que permitió que los
-Investigadores en Ciencias Médicas y Ayudantes de Investigador fueran
+Secretaría del Trabajo y Previsión Social (STPS), bajo el número
+[10/15436](https://www.siticsalud.org/wp-content/uploads/2023/06/Toma-de-nota-2022-2025-SITIC-Salud.pdf).
+Este reconocimiento representó un hito significativo, ya que [permitió que los
+Investigadores en Ciencias Médicas y Ayudantes de Investigador de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad fueran
 reconocidos como trabajadores del Apartado A del artículo 123
-constitucional. Este cambio de estatus laboral les otorgó derechos definidos en
-la Ley Federal del Trabajo, incluyendo la posibilidad de negociar
+constitucional](apartado_a.md#sitic). Este cambio de estatus laboral les otorgó [derechos definidos en
+la Ley Federal del Trabajo](cct.md), incluyendo la posibilidad de negociar
 colectivamente y acceder a prestaciones laborales que anteriormente les eran
 negadas.
 

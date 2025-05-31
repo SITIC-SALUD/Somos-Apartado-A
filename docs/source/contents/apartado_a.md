@@ -1,5 +1,6 @@
 # Cómo y Por Qué Fueron Reconocidos Como Trabajadores del Apartado A
 
+(apartado_b)=
 ## Marco legal de los Institutos Nacionales de Salud
 
 Los Institutos Nacionales de Salud son Organismos Públicos
@@ -10,9 +11,9 @@ constitucional](https://mexico.justia.com/federales/constitucion-politica-de-los
 es decir, al régimen de trabajadores al servicio del Estado. En
 particular, el artículo 35 de esa ley establece:
 
->“Las relaciones laborales entre los Institutos Nacionales de Salud y sus trabajadores se regirán por lo
+>"Las relaciones laborales entre los Institutos Nacionales de Salud y sus trabajadores se regirán por lo
 >dispuesto en la Ley Federal de los Trabajadores al Servicio del Estado,
->Reglamentaria del Apartado B) del artículo 123 Constitucional”
+>Reglamentaria del Apartado B) del artículo 123 Constitucional"
 
 Esto significa que, en principio, todo el personal de los institutos estaría bajo
 el Apartado B con las normas de la [Ley Federal de los Trabajadores al Servicio
@@ -72,6 +73,7 @@ jurisprudencia 1/96 continuó vigente para todos los trabajadores de los OPD
 (como los Institutos Nacionales de Salud) prevaleciendo sobre otras leyes como
 la Ley de Institutos Nacionales de Salud.
 
+(sitic)=
 ## El reconocimiento en 2019 de los investigadores como trabajadores del Apartado A
 
 En este contexto legal evolucionado, un grupo de científicos e investigadores
@@ -79,19 +81,19 @@ en ciencias médicas de los Institutos Nacionales de Salud
 decidió organizarse sindicalmente. En 2019 constituyeron el Sindicato
 Independiente de Trabajadores en Investigación de Ciencias de la Salud (SITIC
 Salud), buscando reivindicar derechos laborales básicos que, en la práctica, no
-les estaban siendo reconocidos [por haber sido considerados trabajadores de confianza del Apartado B](../investigadores.md).
+les estaban siendo reconocidos [por haber sido considerados trabajadores de confianza del Apartado B](investigadores.md#estatus).
 
 Muchos de estos investigadores habían sido contratados por años bajo esquemas
 precarios (eventuales, honorarios o contratos anuales) sin la estabilidad ni
 los derechos completos de un trabajador de base, pese a laborar de forma
-subordinada en los institutos. [Este escenario anómalo](../investigadores.md) alimentó el argumento de
+subordinada en los institutos. [Este escenario anómalo](investigadores.md#estatus) alimentó el argumento de
 que, al no existir un nombramiento formal de servidor público bajo Apartado B o
 al no otorgarles plenamente las condiciones del régimen burocrático, su
 relación de trabajo debía encuadrarse en la esfera del Apartado A de la
 Constitución. Es en ese contexto que el SITIC Salud solicitó y obtuvo registro oficial ante la
 Secretaría del Trabajo y Previsión Social como sindicato gremial del Apartado A (como se puede ver en [la última toma de nota vigente](https://www.siticsalud.org/wp-content/uploads/2023/06/Toma-de-nota-2022-2025-SITIC-Salud.pdf)),
 lo cual implicó que la autoridad laboral reconoció que esos trabajadores de Institutos Nacionales de Salud y Hospitales de Alta Especialidad podían ejercitar [los derechos colectivos previstos en la Ley
-Federal del Trabajo](../cct.md).
+Federal del Trabajo](cct.md).
 
 ## La jurisprudencia 2022
 
@@ -129,16 +131,53 @@ retroactivo que lesione derechos ya adquiridos.
 Ante la resistencia mostrada por los
 Institutos Nacionales de Salud para hacer efectivo el reconocimiento de los
 Investigadores en Ciencias Médicas y Ayudantes de Investigador como
-trabajadores del Apartado A, y las dificultades para negociar un contrato
-colectivo de trabajo (CCT) apesar de que la legitimidad del sindicato y la obligación de negociar fueron
-respaldadas por los tribunales, en febrero de 2023, el Senado de la República aprobó un
+trabajadores del Apartado A, y las dificultades para negociar un Contrato
+Colectivo de Trabajo apesar de que la legitimidad del sindicato y la obligación de negociar fueron
+respaldadas por los tribunales, en febrero de 2023, [el Senado de la República aprobó un
 exhorto señalando que no existe impedimento legal ni administrativo para
-celebrar el CCT con el SITIC Salud y exhortó a la Secretaría de Salud (como
-cabeza del sector) a participar en la negociación. Esto refuerza la
-interpretación de que la organización sindical de los investigadores es
-jurídicamente válida.
-<br><br>
+celebrar el Contrato Colectivo de Trabajo con el SITIC Salud y exhortó a la Secretaría de Salud (como
+cabeza del sector) a participar en la
+negociación](https://www.senado.gob.mx/64/gaceta_del_senado/documento/129918).
+En particular, y citando las resoluciones judiciales de amparo resueltas a
+favor del reconocimiento de los derechos de los investigadores y ayudantes de
+investigación como trabajadores del Apartado A, [la Comisión de Trabajo y
+Previsión Social del Senado de la República señaló sobre los dictámenes previos
+del Tribunal Colegiado en Materia de
+Trabajo](https://www.senado.gob.mx/64/gaceta_del_senado/documento/129918):
 
+> "El hecho de enmarcarse en el Apartado A del Arg. 123 de la Constitución,
+> significa que tiene reconocido el derecho a la negociación colectiva; así
+> como el de huelga, siendo inexacto que, por exisitir registradas Condicones
+> Generales deTrabajo, exista imposibilidad de suscribir un Contrato Colectivo
+> de Trabajo;"
+
+Y:
+
+> "El Tribunal considera que el SITIC Salud, en términos de los Art. 450, fracción
+> 11,y 920 de la Ley Federal del Trabajo puede emplazar a huelga al
+> Organismo Público Descentralizado (INSHAE), para obtener la celebración de un
+> contrato colectivo de trabajo para el personal denominado investigadores en
+> ciencias médicas y ayudantes de investigación a su servicio;"
+
+(cct)=
+## Finalmente, la Negociación del Contrato Colectivo de Trabajo
+
+A pesar de los obstáculos y la resistencia, y gracias también a varios amparos judiciales
+resueltos a favor del reconocimiento de los derechos de los investigadores y
+ayudantes de investigación como trabajadores del Apartado A, finalmente 
+tres Institutos Nacionales de Salud tomaron parte en la negociación del
+Contrato Colectivo de Trabajo con el SITIC Salud ante la Junta Federal de
+Conciliación y Arbitraje siguiendo el procedimiento descrito en la Ley Federal
+del Trabajo. Estos institutos son: el Instituto Nacional de
+Rehabilitación y el Instituto Nacional de Cancerología y el Hospital Infantil
+de México Federico Gómez. Este último fue el primero en acordar bilateralmente
+[el Contrato Colectivo de Trabajo para sus investigadores y ayudantes de
+investigación](https://www.siticsalud.org/wp-content/uploads/2025/04/nuevo1_compressed.pdf),
+y se encuentra pendiente de firma por parte de la representación legal del
+instituto o su dirección general, como corresponde al
+ser un Organismo Público Descentralizado con personalidad jurídica propia.
+
+<br><br>
 
 [Regresar](../index.md)
 

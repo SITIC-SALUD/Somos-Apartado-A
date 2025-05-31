@@ -1,71 +1,49 @@
 # Derechos Laborales del Trabajador de Base en el Apartado A
 
-El reconocimiento y ejercicio de los derechos del Apartado A transforma la situación laboral
-de los Investigadores y Ayudantes de Investigador, pasando de la precariedad a una relación de trabajo con
+[El reconocimiento y ejercicio de los derechos del Apartado A transforma la situación laboral
+de los Investigadores y Ayudantes de Investigador](apartado_a.md), pasando de [la precariedad](investigadores.md#estatus) a una relación de trabajo con
 derechos plenos. Esto tiene múltiples beneficios:
 
-- **Justicia y legalidad**. Garantizar derechos fundamentales evita responsabilidades legales para las
-autoridades y refuerza en los trabajadores el sentido de respeto y pertenencia
-institucional.
+- **Justicia y legalidad**. Garantizar derechos fundamentales evita
+  responsabilidades legales para las autoridades y refuerza en los trabajadores
+  el sentido de respeto y pertenencia institucional.
 
-#### Mejores condiciones y productividad
-La estabilidad y participación en decisiones laborales mejoran el enfoque y la
-motivación para la investigación científica.
+- **Mejores condiciones y productividad**. La estabilidad y participación en
+  decisiones laborales mejoran el enfoque y la motivación para la investigación científica.
 
-#### Retención y atracción de talento
-La certidumbre laboral y las oportunidades de desarrollo profesional incentivan
-a los investigadores a permanecer en el sistema público de salud. Además,
-contar con condiciones al menos equiparables a las de las universidades y otros
-centros públicos de investigación convierte a los Institutos Nacionales de
-Salud en espacios atractivos para incorporar perfiles altamente calificados en
-investigación en salud.
+- **Retención y atracción de talento**. La certidumbre laboral y las
+  oportunidades de desarrollo profesional incentivan a los investigadores a
+  permanecer en el sistema público de salud. Además, contar con condiciones al
+  menos equiparables a las de las universidades y otros centros públicos de
+  investigación convierte a los Institutos Nacionales de Salud en espacios
+  atractivos para incorporar perfiles altamente calificados en investigación en
+  salud.
 
-#### Fin a la discrecionalidad
-Un sindicato y un contrato colectivo equilibran la relación laboral y evitan
-decisiones unilaterales, promoviendo la transparencia y la profesionalización
-de la gestión institucional.
+- **Fin a la discrecionalidad**. Un sindicato y un contrato colectivo
+  equilibran la relación laboral y evitan decisiones unilaterales, promoviendo
+  la transparencia y la profesionalización de la gestión institucional.
 
-
-
-Como trabajadores regidos por el Apartado A que no son de confianza, los
+[Como trabajadores regidos por el Apartado A](apartado_a.md) que [no son de confianza](de_confianza.md), los
 Investigadores y Técnicos de los Institutos Nacionales de Salud tienen entre otros derecho a:
 
-- Seguridad Social Garantizada con el IMSS
-- Estabilidad laboral y permanencia en el empleo
+- [Estabilidad laboral y permanencia en el empleo](#estabilidad)
 - Jornada laboral digna
 - Organización sindical
 - Negociación de un Contrato Colectivo de Trabajo
 - Huelga
 
-## Seguridad Social Garantizada
-
-Al ser reconocidos como trabajadores del Apartado A, los investigadores
-adquieren el derecho pleno a la seguridad social. Esto obliga al Instituto a
-afiliarlos al régimen obligatorio del IMSS, conforme a la Ley del Seguro Social
-y al artículo 123 de la Constitución.
-La ley establece que toda persona que preste un servicio subordinado y
-remunerado debe estar asegurada, sin importar si trabaja para una entidad
-pública o privada.
-Esa afiliación garantiza acceso a atención médica, medicamentos, incapacidades,
-licencias, pensiones, guarderías y seguros por riesgos de trabajo.
-El patrón debe cubrir las cuotas correspondientes ante el IMSS, asegurando así
-la vigencia y efectividad de estos derechos.
-
+(estabilidad)=
 ## Estabilidad Laboral y Permanencia en el empleo
 
 Como trabajadores del Apartado A regidos por la Ley Federal del Trabajo, los
-investigadores tienen derecho a la estabilidad laboral, y sus contratos se
-presumen por tiempo indeterminado.
-Solo pueden ser despedidos por causas legales justificadas, como las previstas
-en el artículo 47 de la LFT; de lo contrario, el Instituto está obligado a
-reinstalarlos o indemnizarlos con tres meses de salario, conforme al artículo
-123 constitucional.
+investigadores tienen derecho a la estabilidad laboral, y [sus contratos se
+presumen por tiempo indeterminado](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-segundo/capitulo-ii/#articulo-35).
 A diferencia del personal de confianza, que puede ser separado por simple
-“pérdida de confianza”, ustedes gozan de protección frente a despidos
-arbitrarios.
+“pérdida de confianza”, los investigadores solo pueden ser despedidos por causas legales justificadas, como las previstas
+en el [artículo 47 de la Ley Federal del Trabajo](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-segundo/capitulo-iv/#articulo-47); de lo contrario, el Instituto está obligado a
+reinstalarlos o indemnizarlos con tres meses de salario, conforme al [artículo 48 de la misma ley](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-segundo/capitulo-ii/#articulo-35).
 Esta diferencia permite desarrollar proyectos científicos a largo plazo sin
-temor a decisiones discrecionales.
-El reconocimiento de este derecho es clave para transformar la precariedad en
+temor a decisiones discrecionales. El reconocimiento de este derecho es clave para transformar la precariedad en
 una relación laboral justa.
 Con estabilidad, se protege no solo al trabajador, sino también la continuidad,
 calidad y misión científica del Instituto.
@@ -74,8 +52,8 @@ calidad y misión científica del Instituto.
 
 Como trabajadores del Apartado A, su jornada debe ajustarse a los límites
 establecidos por la Constitución. Tienen derecho a una jornada limitada y al
-pago justo por horas extra. Las horas extraordinarias deben pagarse al doble y
-no pueden exceder 3 horas al día ni repetirse más de 3 días seguidos.
+pago justo por horas extra. [Las horas extraordinarias deben pagarse al doble](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-tercero/capitulo-ii/#articulo-67) y
+[no pueden exceder 3 horas al día ni repetirse más de 3 días seguidos](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-tercero/capitulo-ii/#articulo-68).
 Estas reglas existen para proteger su salud y evitar abusos.
 El Instituto está obligado a respetar horarios razonables y condiciones laborales dignas.
 Exigir extensiones de jornada sin compensación, como se hacía bajo la figura de
@@ -83,9 +61,13 @@ Exigir extensiones de jornada sin compensación, como se hacía bajo la figura d
 
 ## Organización Sindical
 
-Al ser trabajadores del Apartado A, los Investigadores en Ciencias Médicas y
+Al ser trabajadores del Apartado A, los Investigadores y
 Ayudantes de Investigador tienen reconocido el derecho constitucional a
-organizarse sindicalmente. Este derecho fue ejercido en 2019, al constituir y
+organizarse sindicalmente (según [el Artículo 123 de la Constitución, Apartado
+A, fracción
+XVI](https://mexico.justia.com/federales/constitucion-politica-de-los-estados-unidos-mexicanos/titulo-sexto/),
+y [el artículo 357 de la Ley Federal del Trabajo](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-septimo/capitulo-ii/#articulo-357)). Este derecho fue ejercido en
+2019, al constituir y
 registrar legalmente su propio sindicato.
 A diferencia del personal de confianza, los trabajadores del Apartado A pueden
 afiliarse libremente a sindicatos y elegir a sus representantes.
@@ -103,30 +85,33 @@ propios— se nieguen a negociar.
 La negociación colectiva permite a los investigadores, como trabajadores del
 Apartado A, acordar con el Instituto Nacional de Salud o el Hospital de Alta
 Especialidad, a través de su sindicato, las condiciones laborales mediante un
-Contrato Colectivo de Trabajo (CCT).
+Contrato Colectivo de Trabajo (como dice [el Artículo 123 de la Constitución,
+Apartado A, fracción
+XVIII](https://mexico.justia.com/federales/constitucion-politica-de-los-estados-unidos-mexicanos/titulo-sexto/),
+y los artículos [386](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-septimo/capitulo-iii/#articulo-386) y [387](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-septimo/capitulo-iii/#articulo-387) de la Ley Federal del Trabajo).
 Este contrato puede incluir cláusulas sobre salarios, jornadas, prestaciones,
 estímulos y otros aspectos normativos y organizacionales propios de la labor
 científica.
 
-El CCT es un acuerdo legal y obligatorio que debe ser firmado por el
+El Contrato Colectivo de Trabajo es un acuerdo legal y obligatorio que debe ser firmado por el
 representante legal del Instituto, que, al ser un organismo público
 descentralizado con personalidad jurídica y patrimonio propios, actúa en nombre
 propio; y por parte de los trabajadores, por el secretario general del
 sindicato o la persona designada por su directiva.
-Una vez registrado ante la autoridad laboral, el CCT tiene fuerza de ley entre
+Una vez registrado ante la autoridad laboral, el Contrato Colectivo de Trabajo tiene fuerza de ley entre
 las partes.
 Si el Instituto se niega a negociar, la Ley Federal del Trabajo faculta al
 sindicato a ejercer el derecho de huelga como medida legítima.
-Contar con un CCT permite dejar atrás la falta de condiciones claras y
+Contar con un Contrato Colectivo de Trabajo permite dejar atrás la falta de condiciones claras y
 establecer un marco normativo justo, adaptado a la investigación en salud.
 
 ## Huelga
 
-El derecho a huelga está reconocido en el artículo 123 constitucional como una
+El derecho a huelga está reconocido en [el Artículo 123 constitucional](https://mexico.justia.com/federales/constitucion-politica-de-los-estados-unidos-mexicanos/titulo-sexto/) como una
 herramienta legítima de los trabajadores para la defensa de sus intereses
-colectivos. En el caso de los Investigadores en Ciencias Médicas y Ayudantes de
-Investigador, como trabajadores del Apartado A, este derecho les permite
-suspender labores de forma legal cuando el Instituto Nacional de Salud o el
+colectivos. En el caso de los Investigadores y Ayudantes de
+Investigador, como trabajadores del Apartado A, [este derecho les permite
+suspender labores de forma legal](https://mexico.justia.com/federales/leyes/ley-federal-del-trabajo/titulo-octavo/) cuando el Instituto Nacional de Salud o el
 Hospital de Alta Especialidad —como organismos públicos descentralizados con
 personalidad jurídica propia— se niegan a negociar condiciones laborales justas
 o a firmar un Contrato Colectivo de Trabajo. La Ley Federal del Trabajo
