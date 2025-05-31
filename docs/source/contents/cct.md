@@ -33,7 +33,7 @@ Investigadores y Técnicos de los Institutos Nacionales de Salud tienen entre ot
 - [Huelga](#huelga)
 
 (estabilidad)=
-## Estabilidad Laboral y Permanencia en el empleo
+## Estabilidad Laboral y Permanencia en el Empleo
 
 Como trabajadores del Apartado A regidos por la Ley Federal del Trabajo, los
 investigadores tienen derecho a la estabilidad laboral, y [sus contratos se

@@ -41,7 +41,7 @@ de Salud serían Apartado B, lo cual limitaría su capacidad para formar sindica
 independientes, negociar colectivamente un contrato colectivo y emplazar
 huelgas en los mismos términos que un trabajador del sector privado.
 
-## La jurisprudencias 1/96
+## La jurisprudencia 1/96
 
 En 1996, la Suprema Corte de Justicia de la Nación emitió [la jurisprudencia
 1/96](https://sjf2.scjn.gob.mx/detalle/tesis/200199), que establece que los trabajadores de los Organismos Públicos
