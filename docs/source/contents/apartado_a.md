@@ -95,7 +95,7 @@ Secretaría del Trabajo y Previsión Social como sindicato gremial del Apartado 
 lo cual implicó que la autoridad laboral reconoció que esos trabajadores de Institutos Nacionales de Salud y Hospitales de Alta Especialidad podían ejercitar [los derechos colectivos previstos en la Ley
 Federal del Trabajo](cct.md).
 
-## La jurisprudencia 2022
+## La nueva jurisprudencia de 2022
 
 En 2022, el Pleno de la Suprema Corte de Justicia de la Nación resolvió, al atender una solicitud de sustitución
 de jurisprudencia, que el legislador sí puede determinar el régimen laboral de
@@ -120,9 +120,9 @@ laborales que venían ejerciendo bajo el Apartado B.
 En la actualidad, la jurisprudencia P./J. 10/2021 no puede despojar retroactivamente a los
 investigadores del SITIC Salud de su estatus y beneficios adquiridos bajo el
 Apartado A. Esto ha sido confirmado por la propia
-SCJN, de modo que cualquier cambio de régimen opera sólo hacia el
+Suprema Corte de Justicia de la Nación, de modo que cualquier cambio de régimen opera sólo hacia el
 futuro y sin afectar situaciones jurídicas definitivamente establecidas. Prevalece
-el Artículo 14 constitucional que consagra el principio de irretroactividad de la
+[el Artículo 14 constitucional](https://mexico.justia.com/federales/constitucion-politica-de-los-estados-unidos-mexicanos/titulo-primero/capitulo-i/#articulo-14) que consagra el principio de irretroactividad de la
 ley en perjuicio de persona alguna, es decir, prohíbe dar a las normas efecto
 retroactivo que lesione derechos ya adquiridos.
 
