@@ -95,7 +95,7 @@ Secretaría del Trabajo y Previsión Social como sindicato gremial del Apartado 
 lo cual implicó que la autoridad laboral reconoció que esos trabajadores de Institutos Nacionales de Salud y Hospitales de Alta Especialidad podían ejercitar [los derechos colectivos previstos en la Ley
 Federal del Trabajo](cct.md).
 
-## La nueva jurisprudencia de 2022
+## La jurisprudencia 10/2021
 
 En 2022, el Pleno de la Suprema Corte de Justicia de la Nación resolvió, al atender una solicitud de sustitución
 de jurisprudencia, que el legislador sí puede determinar el régimen laboral de
