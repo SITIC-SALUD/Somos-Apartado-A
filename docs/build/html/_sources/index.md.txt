@@ -1,12 +1,13 @@
-# **Investigadores y Ayudantes de Investigador de los INSHAE: Trabajadores del Apartado A**
+%# **Investigadores y Ayudantes de Investigador de los INSHAE: Trabajadores del Apartado A**
+# **Investigadoras e Investigadores en Ciencias Médicas y Ayudantes de Investigador de los INSHAE: Trabajadores del Apartado A con Derechos Laborales**
 
 *Divulgado por [el Sindicato Independiente de los Trabajadores en Investigación de Ciencias de la Salud, SITIC Salud](https://www.siticsalud.org/)*
 
 <br>
 
 <span style="font-size: 140%;">Guía rápida</span> para entender cómo y por qué 
-los investigadores y ayudantes de investigador de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad (INSHAE)
-fueron reconocidos en 2019 como trabajadores del Apartado A, y qué implicaciones tiene.
+las y los Investigadores en Ciencias Médicas y Ayudantes de Investigador de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad (INSHAE)
+fuimos reconocidos, en 2019, como trabajadores del Apartado A, y sus implicaciones sobre nuestra estabilidad laboral.
 
 ```{eval-rst}
 .. toctree::
@@ -21,7 +22,7 @@ fueron reconocidos en 2019 como trabajadores del Apartado A, y qué implicacione
 
 <br><br>
 
-*Si eres investigador o ayudante de investigador de los INSHAE, te invitamos a [unirte al SITIC Salud](https://www.siticsalud.org/), tu sindicato.*
+*Si eres investigadora, investigador, o ayudante de investigador de los INSHAE, te invitamos a [unirte al SITIC Salud](https://www.siticsalud.org/), tu sindicato.*
 
 <br>
 
