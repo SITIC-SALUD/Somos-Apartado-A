@@ -1,5 +1,5 @@
 %# **Investigadores y Ayudantes de Investigador de los INSHAE: Trabajadores del Apartado A**
-# **Investigadoras e Investigadores en Ciencias Médicas y Ayudantes de Investigador de los INSHAE: Trabajadores del Apartado A con Derechos Laborales**
+# **Investigadoras e Investigadores en Ciencias Médicas y Ayudantes de Investigador de los INSHAE: Trabajadores del Apartado A**
 
 *Divulgado por [el Sindicato Independiente de los Trabajadores en Investigación de Ciencias de la Salud, SITIC Salud](https://www.siticsalud.org/)*
 
