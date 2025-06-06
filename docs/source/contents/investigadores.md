@@ -120,7 +120,7 @@ dirección, inspección, vigilancia o fiscalización; quedando
 sin protección colectiva ni posibilidad de organización sindical efectiva.
 
 Frente a esta situación, y [dado que el marco legal vigente establecía que las
-relaciones laborales dentro de los OPDs podrían establecerse tanto por el Apartado A, como el Apartado B](apartado_a.md), en
+relaciones laborales dentro de los OPDs podrían establecerse tanto por el Apartado A como por el Apartado B](apartado_a.md), en
 2019 se constituyó [el Sindicato Independiente de Trabajadores en Investigación
 de Ciencias de la Salud (SITIC Salud)](SITIC.md). Muchos de estos Investigadores e Investigadoras llevaban
 años contratados bajo esquemas precarios —eventuales, por honorarios, o con
